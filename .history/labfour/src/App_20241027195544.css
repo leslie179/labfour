@@ -48,11 +48,11 @@ h1{
 }
 
 .task-button {
-  margin-left: 20px;
+  margin-left: px;
   padding: 5px 10px;
   color: black;
   border: none;
-  border-radius: 0px;
+  border-radius: 5px;
   cursor: pointer;
   border: 1px solid black;
   background-color: white;

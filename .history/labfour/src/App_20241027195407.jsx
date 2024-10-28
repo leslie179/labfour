@@ -18,7 +18,7 @@ function App() {
       <button className="filter-button" onClick={() => setFilter("Completed")}>Completed</button>
       <button className="filter-button" onClick={() => setFilter("Pending")}>Pending</button>
 
-      <h2>You have {remainingTasks} task{remainingTasks !== 1 ? 's' : ''} remaining</h2>
+      <h2>You have{remainingTasks} task{remainingTasks !== 1 ? 's' : ''} remaining</h2>
 
       <ul>
         {tasks.filter((task) => {

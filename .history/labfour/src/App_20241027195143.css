@@ -9,13 +9,7 @@
 }
 
 .save{
-  background-color: #00800a;
-  border: 1px solid black;
-  border-radius: 0px;
-}
-
-.input{
-  height:34px;
+  background-color: ;
 }
 
 .task-font {
@@ -30,14 +24,9 @@
   white-space: nowrap;
 }
 
-h1{
-  font-size: 40px;
-}
-
 .filter-button{
   border: 1px solid black;
   background-color: white;
-  border-radius: 0px;
   margin-right: 10px;
   margin-top: 15px;
 }
@@ -48,11 +37,11 @@ h1{
 }
 
 .task-button {
-  margin-left: 20px;
+  margin-left: 10px;
   padding: 5px 10px;
   color: black;
   border: none;
-  border-radius: 0px;
+  border-radius: 5px;
   cursor: pointer;
   border: 1px solid black;
   background-color: white;
