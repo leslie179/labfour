@@ -1,0 +1,64 @@
+#root {
+  max-width: 1280px;  
+  text-align: left;
+  padding-left: 20rem;
+}
+
+h1{
+  font-size: 35px;
+}
+
+.filter-button{
+  border: 1px solid black;
+  background-color: white;
+  margin-right: 10px;
+  margin-top: 20px;
+  border-radius: 0px;
+}
+
+.save{
+  background-color: #00800a;
+  border-radius: 0px;
+  border: 1px solid black;
+  padding-top:2mm;
+  height:43px;
+  color: white;
+  
+}
+
+.task-checkbox{
+  margin-right: 20px;
+}
+.task-item{
+  padding-top: 20px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: black; 
+}
+
+.task-button{
+  position: absolute;
+  border-radius: 0px;
+  border: 1px solid black;
+  background-color: white;
+}
+.task-font{
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 80px;
+}
+
+.h2{
+  font-weight: bold;
+  font-size: 30px;
+}
+.input{
+width:200px;
+height:36px;
+}
+
+.read-the-docs {
+  color: #888;
+}
